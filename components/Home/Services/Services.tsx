@@ -12,8 +12,8 @@ const Services = () => {
           return (
             <div
               key={services.id}
-              data-aos="fade-left"
-              data-aos-anchorpalcement="top-center"
+              data-aos="flip-left"
+              data-aos-easing="ease-out-cubic"
               data-aos-delay={`${i * 150}`}
             >
               <ServicesCart service={services} />

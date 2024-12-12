@@ -9,7 +9,7 @@ const About = () => {
     <div className="pt-16 pb-16 bg-[#050709]">
       <SectionHeading>About Me</SectionHeading>
       <div
-        data-aos="fade-left"
+        data-aos="zoom-in-up"
         data-aos-anchorpalcement="top-center"
         className="w-[80%] mx-auto grid grid-cols-1 lg:grid-cols-2 gap-8 items-center mt-20"
       >
