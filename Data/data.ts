@@ -2,7 +2,7 @@ export const BaseInfo = {
   name: "Sengvon Orn",
   position: "Web Developer",
   description:
-    "As a third-year IT student at the National Institute of Business, I'm primed to excel as a software developer. With a solid grasp of HTML, CSS, JavaScript, Vueejs, and Reactjs, along with an eye for design, I'm equipped to create engaging user interfaces and robust web applications My problem-solving skills and teamwork make me adept at building and optimizing both front-end and back-end systems. Additionally, my passion for Java further enhances my capabilities, allowing me to tackle full-stack development challenges and pursue my goal of becoming a software developer.",
+    "As a third-year IT student at the National Institute of Business, I'm primed to excel as a software developer. With a solid grasp of HTML, CSS, JavaScript, Vueejs, and Reactjs, along with an eye for design, I'm equipped to create engaging user interfaces and robust web applications My problem-solving skills and teamwork make me adept at building and optimizing both front-end and back-end systems. Additionally, my passion for Python further enhances my capabilities, allowing me to tackle full-stack development challenges and pursue my goal of becoming a software developer.",
   profilePic: "/images/person.png",
 };
 
@@ -10,10 +10,10 @@ export const aboutInfo = {
   title: "Personal Infos",
   description:
     "Orn Sengvon, 21 years old, Cambodian, based in Phnom Penh. Contact: +855 88 439 6109, Email: sengvonsv@gmail.com, LinkedIn: Orn Sengvon. Languages: Khmer, English",
-  client: "1+",
-  experience: "0+",
+  client: "0+",
+  experience: "1+",
   project: "8+",
-  website: "8+",
+  website: "0+",
 };
 
 export const servicesData = [
@@ -121,61 +121,97 @@ export const skillsData = [
     id: 1,
     title: "React",
     image: "/images/react.svg",
-    percent: "90%",
+    percent: "70%",
   },
   {
     id: 2,
     title: "CSS",
     image: "/images/css.svg",
-    percent: "97%",
+    percent: "70%",
   },
   {
     id: 3,
     title: "JavaScript",
     image: "/images/js.svg",
-    percent: "77%",
+    percent: "70%",
   },
   {
     id: 4,
     title: "TypeScript",
     image: "/images/ts.svg",
-    percent: "67%",
+    percent: "40",
   },
   {
     id: 5,
     title: "HTML",
     image: "/images/html.svg",
-    percent: "67%",
+    percent: "70%",
   },
   {
     id: 6,
     title: "Node JS",
     image: "/images/node.svg",
-    percent: "77%",
+    percent: "60%",
   },
   {
     id: 7,
     title: "MongoDB",
     image: "/images/mongo.svg",
-    percent: "65%",
+    percent: "30%",
   },
   {
     id: 8,
     title: "Python",
     image: "/images/python.svg",
-    percent: "55%",
+    percent: "70%",
   },
   {
     id: 9,
     title: "Firebase",
     image: "/images/firebase.svg",
-    percent: "75%",
+    percent: "10%",
   },
   {
     id: 10,
     title: "Vue",
     image: "/images/vue.svg",
-    percent: "35%",
+    percent: "50%",
+  },
+  {
+    id: 11,
+    title: "Nestjs",
+    image: "/images/nestjs.svg",
+    percent: "40%",
+  },
+  {
+    id: 12,
+    title: "Express",
+    image: "/images/express.png",
+    percent: "30%",
+  },
+  {
+    id: 13,
+    title: "Nextjs",
+    image: "/images/nextjs.png",
+    percent: "60%",
+  },
+  {
+    id: 14,
+    title: "Java",
+    image: "/images/java.png",
+    percent: "50%",
+  },
+  {
+    id: 15,
+    title: "C#",
+    image: "/images/c.png",
+    percent: "40%",
+  },
+  {
+    id: 16,
+    title: "Sql",
+    image: "/images/sqli.png",
+    percent: "40%",
   },
 ];
 

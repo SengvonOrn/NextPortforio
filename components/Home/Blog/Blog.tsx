@@ -16,7 +16,7 @@ const Blog = () => {
               data-aos-anchorpalcement="top-center"
               data-aos-delay={`${i * 150}`}
             >
-              <BlogCart blog={blog} />
+              {/* <BlogCart blog={blog} /> */}
             </div>
           );
         })}

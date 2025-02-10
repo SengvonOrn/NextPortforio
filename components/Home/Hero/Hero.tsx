@@ -34,7 +34,7 @@ const Hero = () => {
               className="md:-px-8 md:py-2.5 px-6 py-1.5 text-sm md:text-lg transition-all duration-200 rounded-lg mt-8 bg-blue-700 items-center flex space-x-2"
             >
               <span>
-                <a href="cv/sengcv.pdf">Download CV</a>
+                <a href="cv/sengvonorn.pdf">Download CV</a>
               </span>
               <FaDownload />
             </button>

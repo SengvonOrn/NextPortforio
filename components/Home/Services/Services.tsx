@@ -16,7 +16,7 @@ const Services = () => {
               data-aos-easing="ease-out-cubic"
               data-aos-delay={`${i * 150}`}
             >
-              <ServicesCart service={services} />
+              {/* <ServicesCart service={services} /> */}
             </div>
           );
         })}
