@@ -139,7 +139,7 @@ export const skillsData = [
     id: 4,
     title: "TypeScript",
     image: "/images/ts.svg",
-    percent: "40",
+    percent: "60",
   },
   {
     id: 5,
@@ -151,13 +151,13 @@ export const skillsData = [
     id: 6,
     title: "Node JS",
     image: "/images/node.svg",
-    percent: "60%",
+    percent: "70%",
   },
   {
     id: 7,
     title: "MongoDB",
     image: "/images/mongo.svg",
-    percent: "30%",
+    percent: "50%",
   },
   {
     id: 8,
@@ -175,25 +175,25 @@ export const skillsData = [
     id: 10,
     title: "Vue",
     image: "/images/vue.svg",
-    percent: "50%",
+    percent: "60%",
   },
   {
     id: 11,
     title: "Nestjs",
     image: "/images/nestjs.svg",
-    percent: "40%",
+    percent: "50%",
   },
   {
     id: 12,
     title: "Express",
     image: "/images/express.png",
-    percent: "30%",
+    percent: "60%",
   },
   {
     id: 13,
     title: "Nextjs",
     image: "/images/nextjs.png",
-    percent: "60%",
+    percent: "70%",
   },
   {
     id: 14,
@@ -211,7 +211,7 @@ export const skillsData = [
     id: 16,
     title: "Sql",
     image: "/images/sqli.png",
-    percent: "40%",
+    percent: "70%",
   },
 ];
 
