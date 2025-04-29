@@ -2,7 +2,7 @@ export const BaseInfo = {
   name: "Sengvon Orn",
   position: "Web Developer",
   description:
-    "As a third-year IT student at the National Institute of Business, I'm primed to excel as a software developer. With a solid grasp of HTML, CSS, JavaScript, Vueejs, and Reactjs, along with an eye for design, I'm equipped to create engaging user interfaces and robust web applications My problem-solving skills and teamwork make me adept at building and optimizing both front-end and back-end systems. Additionally, my passion for Python further enhances my capabilities, allowing me to tackle full-stack development challenges and pursue my goal of becoming a software developer.",
+    "As a third-year IT student at the National Institute of Business, I'm primed to excel as a software developer. With a solid grasp of HTML, CSS, JavaScript, Vue.js, React.js, and Laravel—combined with a strong eye for design—I’m equipped to create engaging user interfaces and robust, full-stack web applications. My problem-solving skills and ability to thrive in collaborative environments make me adept at building and optimizing both front-end and back-end systems. Additionally, my passion for software engineering drives me to continuously expand my capabilities and tackle development challenges with confidence, all in pursuit of becoming a high-impact software developer.",
   profilePic: "/images/person.png",
 };
 
@@ -96,8 +96,9 @@ export const projectData = [
   },
   {
     id: 5,
-    image: "/images/p5.png",
-    url: "https://invest-peach.vercel.app/",
+    image: "/images/Ineventory.png",
+    // url: "https://invest-peach.vercel.app/",
+    url: "https://inventory-ten-rosy.vercel.app/",
   },
   {
     id: 6,
@@ -119,7 +120,7 @@ export const projectData = [
 export const skillsData = [
   {
     id: 1,
-    title: "React",
+    title: "Reactjs",
     image: "/images/react.svg",
     percent: "70%",
   },
@@ -139,7 +140,7 @@ export const skillsData = [
     id: 4,
     title: "TypeScript",
     image: "/images/ts.svg",
-    percent: "60",
+    percent: "50%",
   },
   {
     id: 5,
@@ -149,7 +150,7 @@ export const skillsData = [
   },
   {
     id: 6,
-    title: "Node JS",
+    title: "Nodejs",
     image: "/images/node.svg",
     percent: "70%",
   },
@@ -163,17 +164,17 @@ export const skillsData = [
     id: 8,
     title: "Python",
     image: "/images/python.svg",
-    percent: "70%",
+    percent: "60%",
   },
   {
     id: 9,
-    title: "Firebase",
-    image: "/images/firebase.svg",
-    percent: "10%",
+    title: "Laravel",
+    image: "/images/laravel.svg",
+    percent: "70%",
   },
   {
     id: 10,
-    title: "Vue",
+    title: "Vuejs",
     image: "/images/vue.svg",
     percent: "60%",
   },
@@ -185,9 +186,9 @@ export const skillsData = [
   },
   {
     id: 12,
-    title: "Express",
+    title: "Expressjs",
     image: "/images/express.png",
-    percent: "60%",
+    percent: "70%",
   },
   {
     id: 13,
@@ -205,7 +206,7 @@ export const skillsData = [
     id: 15,
     title: "C#",
     image: "/images/c.png",
-    percent: "40%",
+    percent: "50%",
   },
   {
     id: 16,
